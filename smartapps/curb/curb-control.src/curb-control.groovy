@@ -10,8 +10,8 @@ definition(
     author: "Curb",
     description: "This SmartApp allows you to interact with the switches in your physical graph through Curb.",
     category: "Convenience",
-    iconUrl: "http://energycurb.com/images/logo.png",
-    iconX2Url: "http://energycurb.com/images/logo.png",
+    iconUrl: "http://energycurb.com/wp-content/uploads/2015/12/curb-web-logo.png",
+    iconX2Url: "http://energycurb.com/wp-content/uploads/2015/12/curb-web-logo.png",
     oauth: [displayName: "SmartThings Curb Control", displayLink: "energycurb.com"]
 )
 
